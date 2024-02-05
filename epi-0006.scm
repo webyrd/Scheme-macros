@@ -1,7 +1,11 @@
 (load "mk-vicare.scm")
 (load "mk.scm")
 
-;; From Episode 0006, cleaned up in Epi 0028
+;; Macros from Episode 0006
+;; https://www.youtube.com/watch?v=0alYb4ZAHxE
+;; 
+;; Cleaned up in Epi 0028
+;; https://github.com/webyrd/Scheme-macros/blob/main/epi-0006.scm
 ;;
 ;; This file expects to live in the top-level directory of:
 ;;
